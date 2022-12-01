@@ -1,0 +1,226 @@
+[
+    {
+        "headerInfo": [
+            {
+                "id": 1,
+                "icon": "icofont-clock-time",
+                "title": "Horario de atención ",
+                "info": "LUN - SAB: 8:00 AM - 7:00 PM"
+            },
+            {
+                "id": 2,
+                "icon": "icofont-ui-call",
+                "title": "Telefono",
+                "info": "995-740-274"
+            },
+            {
+                "id": 3,
+                "icon": "icofont-envelope",
+                "title": "email",
+                "info": "abelgomerocastillo@gmail.com"
+            }
+        ]
+    },
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/img/slider/slide1.jpg",
+                "subTitle": "Sienta la diferencia con nosotros",
+                "title": "Dr. Abel Gomero <span class='d-block'>Anestesiólogo Y Urólogo</span>"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/img/slider/slide2.jpg",
+                "subTitle": "Sienta la diferencia con nosotros",
+                "title": "Dr. Abel Gomero<span class='d-block'>Anestesiólogo Y Urólogo</span>"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "/img/slider/slide3.jpg",
+                "subTitle": "Sienta la diferencia con nosotros",
+                "title": "Dr. Abel Gomero <span class='d-block'>Anestesiólogo Y Urólogo</span>"
+            }
+        ]
+    },
+    {
+        "healthFeature": [
+            {
+                "id": 1,
+                "icon": "icon icofont-stethoscope-alt",
+                "title": "Diagnosticos",
+                "subTitle": "Examinación y Diagnosticos"
+            },
+            {
+                "id": 2,
+                "icon": "icon icofont-brain-alt",
+                "title": "Tratamiento",
+                "subTitle": "Tratamiento de enfermedades"
+            },
+            {
+                "id": 3,
+                "icon": "icon icofont-paralysis-disability",
+                "title": "Cuidado",
+                "subTitle": "Cuidado y recuperación"
+            }
+        ]
+    },
+    {
+        "medicalFeature": [
+            {
+                "id": 1,
+                "icon": "icofont-prescription",
+                "title": "Consulta Medica",
+                "excerpt": "Brindamos un servicio personalizado a nuestros pacientes"
+            },
+            {
+                "id": 2,
+                "icon": "icofont-doctor-alt",
+                "title": "Doctor de Alto Nivel",
+                "excerpt": "El Dr. Gomero es uno de los mejores urulogos de nuestra region"
+            },
+            {
+                "id": 3,
+                "icon": "icofont-microscope",
+                "title": "Facilidades Medicas",
+                "excerpt": "La Clinica Santa Rosa brinda un espacio privado para los pacientes y familiares"
+            },
+            {
+                "id": 4,
+                "icon": "icofont-ambulance-cross",
+                "title": "Servicio de 24 Horas",
+                "excerpt": "Estamos al servicio a nuestros pacientes en casa de emergencia"
+            },
+            {
+                "id": 5,
+                "icon": "icofont-blood",
+                "title": "Servicio Personal",
+                "excerpt": "Cada paciente recibe un trato y servicio personalizado respetando la privacidad de nuestros pacientes"
+            },
+            {
+                "id": 6,
+                "icon": "icofont-paralysis-disability",
+                "title": "Dedicacion en Cuidado al Paciente",
+                "excerpt": "Nuestros pacientes reciben un cuidado de calidad"
+            }
+        ]
+    },
+    {
+        "team": [
+            {
+                "id": 1,
+                "image": "/img/team/team01.jpg",
+                "name": "Dr. Abel Gomero",
+                "excerpt": "El Dr. Gomero es egresado de la Universidad Federico Villareal como médico anestesiólogo c007705. Su segunda especialidad es el area de urología con registro nacional de especialidad 022958. Durante su carrera médica, trabajó como médico urólogo en el hospital central de la policía nacional del Perú ocupando la jefatura por un lapso de cinco años. Actualmente trabaja en su clínica particular Santa Rosa de la urb. Pro en los Olivos."
+            }
+        ]
+    },
+    {
+        "testimonial": [
+            {
+                "id": 1,
+                "image": "/img/testimonial/01.jpg",
+                "excerpt": "“It’s been an absolute pleasure to work with hope, <br /> their response to our brief exceeded expectations and the execution was efficient, professional and very reassuring. I’d fully recommend theme.”",
+                "name": "Steven Gerrard",
+                "location": "Golden Lotus Apartment, Brooklyn, USA"
+            },
+            {
+                "id": 2,
+                "image": "/img/testimonial/02.jpg",
+                "excerpt": "“It’s been an absolute pleasure to work with hope, <br /> their response to our brief exceeded expectations and the execution was efficient, professional and very reassuring. I’d fully recommend theme.”",
+                "name": "Kristina Castle",
+                "location": "Golden Lotus Apartment, HasThemes, BNA"
+            }
+        ]
+    },
+    {
+        "brand": [
+            {
+                "id": 1,
+                "image": "/img/brand-logo/01.png"
+            },
+            {
+                "id": 2,
+                "image": "/img/brand-logo/02.png"
+            },
+            {
+                "id": 3,
+                "image": "/img/brand-logo/03.png"
+            },
+            {
+                "id": 4,
+                "image": "/img/brand-logo/04.png"
+            },
+            {
+                "id": 5,
+                "image": "/img/brand-logo/05.png"
+            }
+        ]
+    },
+    {
+        "pricing": [
+            {
+                "id": 1,
+                "classOption": "pricing-item item-one",
+                "title": "",
+                "price": "<h2>Pene</h2>",
+                "excerpt": "",
+                "pricingList": ["Fimosis", "Úlceras", "Cáncer de pene", "Herpes genital",
+                                "Ardor en la punta del pene", "Priapismo", "Parafimosis"],
+                "btnClassOption": "btn-theme btn-border"
+            },
+            {
+                "id": 2,
+                "classOption": "pricing-item item-two",
+                "title": "",
+                "price": "<h2>Testículos</h2>",
+                "excerpt": "",
+                "pricingList": ["Epididimitis", "Absceso testicular", "Dolor", "Varicocele",
+                                "Cáncer de testículo", "Orquiepididimitis", "Hipogonadismo"],
+                "btnClassOption": "btn-theme btn-border active"
+            },
+            {
+                "id": 3,
+                "classOption": "pricing-item item-three",
+                "title": "",
+                "price": "<h2>Prostata</h2>",
+                "excerpt": "",
+                "pricingList": ["Litiasis próstata", "Absceso de próstata", "Prostatitis", "Cancer de próstata",
+                                "Biopsia de próstata", "Hiperplasia prostatica  benigna"],
+                "btnClassOption": "btn-theme btn-border"
+            },
+            {
+                "id": 4,
+                "classOption": "pricing-item item-four",
+                "title": "",
+                "price": "<h2>Uretra</h2>",
+                "excerpt": "",
+                "pricingList": ["Trauma uretral", "Uretritis", "Estrechez de meato", "Cáncer de uretra", "Estenosis uretral",
+                                "VPH intrauretral", "Clamidia"],
+                "btnClassOption": "btn-theme btn-border"
+            }
+        ]
+    },
+    {
+        "cases": [
+            {
+                "id": 1,
+                "image": "img/cases/01.jpg",
+                "name": "Natalie Huston",
+                "department": "Teeth Cleaning, High-tech materials"
+            },
+            {
+                "id": 2,
+                "image": "img/cases/02.jpg",
+                "name": "Angela Mayer",
+                "department": "Teeth Cleaning"
+            },
+            {
+                "id": 3,
+                "image": "img/cases/01.jpg",
+                "name": "Natalie Huston",
+                "department": "Teeth Cleaning, High-tech materials"
+            }
+        ]
+    }
+]
