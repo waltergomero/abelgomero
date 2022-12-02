@@ -48,7 +48,7 @@ const MobileMenu = ({ show, onClose }) => {
                     <div className="header-top-offcanvas">
                         <p>
                             <i className="icofont-google-map"></i>{" "}
-                            <span>ADDRESS:</span> 568 Elizaberth Str, London, UK
+                            <span>Direccion:</span> Jiron Pureza MZ-5 Lote-6, Urb. Pro, Los Olivos, Lima
                         </p>
                     </div>
                 </div>
@@ -113,10 +113,10 @@ const MobileMenu = ({ show, onClose }) => {
                         </span>
                         <div className="media-content">
                             <span className="media-sub-heading">
-                                working hours
+                            Horario de atencion:
                             </span>
                             <span className="media-heading">
-                                MON - FRI: 9.00 - 21.00{" "}
+                            Lun - Sab: 8:00 AM - 7:00 PM{" "}
                             </span>
                         </div>
                     </li>
@@ -127,13 +127,13 @@ const MobileMenu = ({ show, onClose }) => {
                         </span>
                         <div className="media-content">
                             <span className="media-sub-heading">
-                                hotline 24/7
+                                emergencia 24/7
                             </span>
                             <a
                                 className="media-heading"
-                                href="tel:+0962-58-58-258"
+                                href="tel:995-740-274"
                             >
-                                +0962-58-58-258
+                                995-740-274
                             </a>
                         </div>
                     </li>
@@ -143,12 +143,12 @@ const MobileMenu = ({ show, onClose }) => {
                             <i className="icofont-envelope"></i>
                         </span>
                         <div className="media-content">
-                            <span className="media-sub-heading">email us</span>
+                            <span className="media-sub-heading">email</span>
                             <a
                                 className="media-heading"
-                                href="mailto:support@clenora.com.uk"
+                                href="mailto:abelgomerocastillo@gmail.com"
                             >
-                                support@clenora.com.uk
+                                abelgomerocastillo@gmail.com
                             </a>
                         </div>
                     </li>
