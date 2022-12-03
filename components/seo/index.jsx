@@ -10,7 +10,7 @@ const SEO = ({ title }) => {
             <meta name="robots" content="noindex, follow" />
             <meta
                 name="description"
-                content="abel gomero, urologia, urologo, clinica santa rosa"
+                content="abel gomero, urologia, urologo, doctor, medico"
             />
             <meta
                 name="viewport"

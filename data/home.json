@@ -83,13 +83,13 @@
                 "id": 3,
                 "icon": "icofont-microscope",
                 "title": "Facilidades Medicas",
-                "excerpt": "La Clinica Santa Rosa brinda un espacio privado para los pacientes y familiares"
+                "excerpt": "El consultorio cuenta con espacios privado para los pacientes y familiares"
             },
             {
                 "id": 4,
                 "icon": "icofont-ambulance-cross",
                 "title": "Servicio de 24 Horas",
-                "excerpt": "Estamos al servicio a nuestros pacientes en casa de emergencia"
+                "excerpt": "Estamos al servicio a nuestros pacientes en caso de emergencia"
             },
             {
                 "id": 5,
@@ -111,7 +111,7 @@
                 "id": 1,
                 "image": "/img/team/team01.jpg",
                 "name": "Dr. Abel Gomero",
-                "excerpt": "El Dr. Gomero es egresado de la Universidad Federico Villareal como médico anestesiólogo c007705. Su segunda especialidad es el area de urología con registro nacional de especialidad 022958. Durante su carrera médica, trabajó como médico urólogo en el hospital central de la policía nacional del Perú ocupando la jefatura por un lapso de cinco años. Actualmente trabaja en su clínica particular Santa Rosa de la urb. Pro en los Olivos."
+                "excerpt": "El Dr. Gomero es egresado de la Universidad Federico Villareal como médico anestesiólogo c007705. Su segunda especialidad es el area de urología con registro nacional de especialidad 022958. Durante su carrera médica, trabajó como médico urólogo en el hospital central de la policía nacional del Perú ocupando la jefatura por un lapso de cinco años. Actualmente trabaja en su consultorio particular localizado en la urb. Pro en los Olivos."
             }
         ]
     },
