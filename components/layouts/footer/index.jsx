@@ -13,8 +13,7 @@ const Footer = () => {
                                 <p className="mb-0">
                                     <strong>Servicio de urología en el distrito de Los Olivos</strong>
                                     <br/>
-                                    El Dr. Gomero los atendera en la clinica Santa Rosa que esta localizada
-                                    a dos cuadras de la estacion de policia nacional.
+                                    El Dr. Gomero los atendera en su consultorio privado localizado en la Urb. Pro.
                                 </p>
                                 <ul className="widget-contact-info">
                                     <li className="info-address">
